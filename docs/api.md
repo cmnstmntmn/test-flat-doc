@@ -1,4 +1,4 @@
-# API
+# API Docs
 
 * 1
 * 2
