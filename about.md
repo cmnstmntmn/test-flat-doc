@@ -1,3 +1,0 @@
-# Bout
-
-lorem ipsum

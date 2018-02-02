@@ -1,3 +1,0 @@
-# About
-
-> lorem ipsum
